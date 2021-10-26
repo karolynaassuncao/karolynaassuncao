@@ -1,4 +1,4 @@
-## Oi, sou Karol! <img src = "https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width = "50">
+## Hi, I'm Karol! <img src = "https://i.pinimg.com/originals/17/07/46/17074670b1d2d663fe3521a03f40c37c.gif" width = "50">
 
   
 - 🌱 I’m currently learning web technologies
