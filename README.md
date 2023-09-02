@@ -5,7 +5,7 @@
 - 💬 Ask me about creativity, planning and design
 - 📫 How to reach me:  [LinkedIn](linkedin.com/in/karolynaassuncao/)
 - 😄 Pronouns:  She/ her
-- ⚡ Fun fact: board games and astronomy
+- ⚡ Fun fact: board games
 
 ##  🛠 Technologies and tools
 
